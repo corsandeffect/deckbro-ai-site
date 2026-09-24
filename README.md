@@ -1,6 +1,8 @@
 # DeckBro AI: TikTok & Ecom Script Generator
 
-Turn Amazon & TikTok Shop pages into humanized UGC script decks — BYOK & 100% local storage for maximum creator privacy.
+A local-first e-commerce video script generator browser extension for Google Chrome. Convert Amazon and TikTok Shop product listing pages into humanized UGC script decks using a Bring Your Own Key (BYOK) architecture that processes all text extractions and AI generation requests entirely within the user's local browser sandbox.
+
+Turn Amazon & TikTok Shop pages into humanized UGC script decks — BYOK & 100% local storage for maximum creator privacy
 
 ---
 
