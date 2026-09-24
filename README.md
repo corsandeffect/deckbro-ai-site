@@ -44,7 +44,7 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ## 🔒 Privacy Policy
 
 ### 1. Data Handling & Privacy Declarations
-To function, this extension processes and handles **Authentication information** (API Keys) and **Website content** (e-commerce product spec scraping). We do not collect, track, or store any of this data on external databases or developer servers. All user credential assets and e-commerce product listing information remain strictly within your browser's local ecosystem.
+To function, this extension processes and handles **Authentication information** (API Keys) and **Website content** (e-commerce product specifications extractions). We do not collect, track, or store any of this data on external databases or developer servers. All user credential assets and e-commerce product listings information remain strictly within your browser's local ecosystem.
 
 ### 2. API Key Security & Network Sandbox
 * **Local Storage:** Keys are saved encrypted on your device using the browser's native `chrome.storage.local` API sandbox structure.
