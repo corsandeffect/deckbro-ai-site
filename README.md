@@ -67,3 +67,40 @@ Because you supply your own API keys, your prompt data and generation habits fal
 Any future revisions to this document will be updated transparently on this landing page. Contact us at the support email above for code review inquiries.
 
 ---
+
+### 1. Data Collection & Scope of Extraction
+To provide its core functionality, DeckBro AI interacts with two specific types of data: **Authentication Information** (User-provided API Keys) and **Website Content** (E-commerce product listings).
+
+* **E-Commerce Scraping Scope:** The extension only reads web page content when a user actively triggers a script generation while viewing a supported URL (**Amazon** or **TikTok Shop** product listing pages).
+
+* **Data Fields Extracted:** Extraction is strictly limited to public product metadata required to build the script deck, including **product names, core technical specifications, and listed features**.
+
+* **No PII or Tracking**: The extension **does not** read, collect, or intercept your personal information, browsing history, cookies, checkout data, payment details, or account credentials.
+  
+### 2. Local Processing & Data Retention
+We believe in absolute data minimization. **We do not run a central database or external developer server.** 
+
+* **Zero Server Footprint:** None of your extracted product text or generated script drafts are ever transmitted to, or stored on, an external server owned by the developers.
+
+* **Local Storage Limits:** Extracted data, framework preferences, and your active script deck are stored entirely within your browser's local sandbox using the chrome.storage.local API.
+
+* **Volatile & Persistent States:** Your API keys and settings remain securely in local storage until you manually delete them or uninstall the extension. Active script text and extracted product data are treated as temporary working assets; they live on your device and can be cleared instantly by resetting the panel or clearing your browser cache.
+
+### 3. API Key Security & Network Sandbox
+* **Storage Encryption:** Your personal API keys are saved locally on your device using the browser's isolated native sandbox structure.
+
+* **Network Isolation:** The extension operates under a strict **Content Security Policy (connect-src)**. It cannot send information to unauthorized third-party trackers, marketing endpoints, or developer analytics servers.
+
+* **Direct-to-API Transmission:** Your prompt text, extracted product details, and API keys travel securely and exclusively via encrypted HTTPS connections directly to the official AI infrastructure endpoints:
+  * OpenAI (`https://api.openai.com*`)
+  * Anthropic Claude (`https://api.anthropic.com*`)
+  * Google Gemini (`https://generativelanguage.googleapis.com*`)
+
+### 4. Third-Party Disclaimers
+Because DeckBro AI utilizes a Bring Your Own Key (BYOK) architecture, your prompt data, extracted product descriptions, and generation habits are governed directly by the respective developer terms of service and data privacy agreements of the platforms you choose to connect:
+* [OpenAI](https://openai.com/policies/row-privacy-policy/)
+* [Anthropic Claude](https://www.anthropic.com/legal/privacy)
+* [Google Gemini](https://support.google.com/gemini/answer/13594961?hl=en)
+
+### 5. Policy Updates & Compliance
+Any future updates to this policy will be posted transparently on this page. For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.
