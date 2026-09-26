@@ -1,11 +1,11 @@
 # DeckBro AI: TikTok & Ecom Script Generator
 
-A humanized e-commerce video script generator side panel for Google Chrome. Convert Amazon and TikTok Shop product listing pages into UGC script decks using a Bring Your Own Key (BYOK) architecture with 100% local storage for maximum creator privacy.
+A humanized e-commerce video script generator side panel for Google Chrome. Convert Amazon (.com, .co.uk, .ca) and TikTok Shop product listing pages into UGC script decks using a Bring Your Own Key (BYOK) architecture with 100% local storage for maximum creator privacy.
 
 ---
 
 ## 🚀 Key Features
-* **Multi-Store Extraction:** Grab product names, core specifications and technical details directly from Amazon or TikTok Shop product listing pages with a single click.
+* **Multi-Store Extraction:** Grab product names, core specifications and technical details directly from Amazon (.com, .co.uk, .ca) or TikTok Shop product listing pages with a single click.
 * **High Retention Script Frameworks:** Generate scripts by choosing from 3 high-velocity social video structures including "The Brutally Honest Review" to build trust, "The Day in the Life Problem Solver" for lifestyle storytelling, and "The Casual Don't Buy This Until..." to stop scrolling thumbs..
 * **Targeted Onsite & TikTok Decks:** Dedicated settings for Amazon Onsite Decks (Spec View, Unboxing View, Value Review scripts) to dominate the product carousel and TikTok Decks (Hype Hook, Sensory ASMR, FOMO Pitch scripts) to maximize shoppable video conversions.
 * **Multi-Format Simultaneous Generation:** Select the 'Cross Platform' output tab to generate tailored variants for TikTok (complete with native call-to-actions), Instagram Reels (optimized for visual-text synchronization), and YouTube Shorts (featuring infinite-loop scripting mechanics) simultaneously.
@@ -25,7 +25,7 @@ A humanized e-commerce video script generator side panel for Google Chrome. Conv
 
 3. Click your **Select Active Model** from the dropdown menu and click **Save Settings**.
 
-4. Open a supported Amazon or TikTok Shop product listing page. 
+4. Open a supported Amazon (.com, .co.uk, .ca) or TikTok Shop product listing page. 
 
 5. Choose your output format on the tab menu (**Optimize Output For:**), select your framework from the dropdown menu (**Select Script Framework**), and press **Generate Script Deck**!
 
@@ -36,8 +36,10 @@ Note: Users must input their own personal API keys (OpenAI, Claude, and/or Gemin
 ---
 
 ## 📞 Support & Feedback
-If you encounter any bugs, have feature requests, or need technical assistance, please reach out via email:
+If you encounter any bugs, have feature requests, or need technical assistance, please reach out via email or tally form:
 * **Email:** mailto:corsandeffect@gmail.com
+
+* **[Tally]**(https://tally.so/r/VLrMOM) 
 
 ---
 
@@ -46,7 +48,7 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ### 1. Data Collection & Scope of Extraction
 To provide its core functionality, DeckBro AI interacts with two specific types of data: **Authentication Information** (User-provided API Keys) and **Website Content** (E-commerce product listings).
 
-* **E-Commerce Scraping Scope:** The extension only reads web page content when a user actively triggers a script generation while viewing a supported URL (**Amazon** or **TikTok Shop** product listing pages).
+* **E-Commerce Scraping Scope:** The extension only reads web page content when a user actively triggers a script generation while viewing a supported URL (**Amazon (.com, .co.uk, .ca)** or **TikTok Shop** product listing pages).
 
 * **Data Fields Extracted:** Extraction is strictly limited to public product metadata required to build the script deck, including **product names, core technical specifications, and listed features**.
 
