@@ -6,14 +6,23 @@ A humanized e-commerce video script generator side panel for Google Chrome. Conv
 
 ## 🚀 Key Features
 * **Multi-Store Extraction:** Grab product names, core specifications and technical details directly from Amazon (.com, .co.uk, .ca) or TikTok Shop product listing pages with a single click.
-* **High Retention Script Frameworks:** Generate scripts by choosing from 3 high-velocity social video structures including "The Brutally Honest Review" to build trust, "The Day in the Life Problem Solver" for lifestyle storytelling, and "The Casual Don't Buy This Until..." to stop scrolling thumbs..
+  
+* **High Retention Script Frameworks:** Generate scripts by choosing from 3 high-velocity social video structures including "The Brutally Honest Review" to build trust, "The Day in the Life Problem Solver" for lifestyle storytelling, and "The Casual Don't Buy This Until..." to stop scrolling thumbs.
+  
 * **Targeted Onsite & TikTok Decks:** Dedicated settings for Amazon Onsite Decks (Spec View, Unboxing View, Value Review scripts) to dominate the product carousel and TikTok Decks (Hype Hook, Sensory ASMR, FOMO Pitch scripts) to maximize shoppable video conversions.
+  
 * **Multi-Format Simultaneous Generation:** Select the 'Cross Platform' output tab to generate tailored variants for TikTok (complete with native call-to-actions), Instagram Reels (optimized for visual-text synchronization), and YouTube Shorts (featuring infinite-loop scripting mechanics) simultaneously.
+  
 * **B-Roll & Visual Direction:** Every script is generated as a complete screenplay deck, featuring dedicated hooks, scene bodies, and synchronized B-roll visual cues detailing precise camera shot instructions.
+  
 * **Clean-Clipboard Export:** Tap the 'Copy Script' button on any script card to quickly copy clean text to your clipboard.
+  
 * **Volatile State Protection:** Never lose an angle. Your active script deck, framework settings, API keys, and AI model configuration are automatically backed up locally during accidental side panel closures or sudden browser restarts.
+  
 * **True BYOK Architecture:** Securely connect your personal OpenAI, Anthropic Claude, or Google Gemini keys directly from your local settings menu.
+  
 * **Zero-Host Privacy:** Direct-to-API network isolation guarantees your product data and generated script drafts never touch an external developer server or a third-party intermediary.
+  
 * **Framework-Free Architecture:** Built with ultra-lightweight native code and zero bloated libraries for lightning-fast performance inside your side panel.
 
 ---
