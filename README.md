@@ -48,7 +48,7 @@ Note: Users must input their own personal API keys (OpenAI, Claude, and/or Gemin
 If you encounter any bugs, have feature requests, or need technical assistance, please reach out via email or tally form:
 * **Email:** mailto:corsandeffect@gmail.com
 
-* [Tally](https://tally.so/r/VLrMOM)
+* **Tally:** [https://tally.so/r/VLrMOM](https://tally.so/r/VLrMOM)
 
 ---
 
