@@ -53,7 +53,6 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ---
 
 ## 🔒 Privacy Policy
-
 ### 1. Data Collection & Scope of Extraction
 To provide its core functionality, DeckBro AI interacts with two specific types of data: **Authentication Information** (User-provided API Keys) and **Website Content** (E-commerce product listings).
 
